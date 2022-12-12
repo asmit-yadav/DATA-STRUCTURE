@@ -1,0 +1,1 @@
+ // head = deletionfirst(head, 5);
